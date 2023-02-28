@@ -1,0 +1,11 @@
+# SSG
+
+pkg update 
+pkg upgrade 
+pkg install git
+pkg install python
+pip install bs4
+pip install rich 
+pip install mechanize
+pip install requests
+cd && rm -rf SSG
