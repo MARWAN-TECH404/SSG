@@ -23,3 +23,4 @@ git clone https://github.com/MARWAN-TECH404/SSG
 cd SSG
 
 python PAID.py
+
