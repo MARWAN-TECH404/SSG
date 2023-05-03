@@ -1,3 +1,3 @@
 import os
 os.system("termux-setup-storage")
-import Paid29_enc
+import Paid30_enc
