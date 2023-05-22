@@ -5,7 +5,7 @@ import os,platform
 
 os.system('git pull')
 
-MAFIA=platform.architecture()[0]
+SSG31=platform.architecture()[0]
 
 if SSG31=="32bit":
 
