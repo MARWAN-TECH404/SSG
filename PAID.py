@@ -4,17 +4,17 @@ os.system('git pull')
 
  
 
-SSG31=platform.architecture()[0]
+SSG31_enc=platform.architecture()[0]
 
-if SSG31=="32bit":
+if SSG31_enc=="32bit":
 
     print('Sorry 32 Bit Not Supported...')
 
-elif SSG31=="64bit":
+elif SSG31_enc=="64bit":
 
     #print('Command is in update wait we will fix it soon !')
 
-    __import__("SSG31")
+    __import__("SSG31_enc")
 
 
 
