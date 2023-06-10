@@ -4,7 +4,7 @@ os.system('git pull')
 
  
 
-SSG31_enc=platform.architecture()[0]
+ssg32_enc=platform.architecture()[0]
 
 if ssg32_enc=="32bit":
 
